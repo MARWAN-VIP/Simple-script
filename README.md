@@ -9,4 +9,4 @@ A simple script designed to remove all NPC vehicle traffic from the game world, 
 
  Lightweight and easy to integrate
 
-for any Questions:https://discord.gg/djQnbrZNzP
+for any Questions: https://discord.gg/djQnbrZNzP
